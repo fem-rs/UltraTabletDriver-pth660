@@ -1,5 +1,6 @@
 # UltraTabletDriver
 This is really good tablet driver mostly for playing Osu!
+Edited by cat for support of the PTH-660 (Wacom intuos pro medium)
 
 It is in C++... That means it is extremly fast and low latency - Faster than OpenTabletDriver
 
